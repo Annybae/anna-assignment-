@@ -12,6 +12,7 @@ This document explains how I set up a basic Django project and uploaded it to Gi
 ### 1. Set Up the Environment
 - I installed Python and pip to make sure my computer was ready for Django development.
 - I created a virtual environment to keep the project dependencies separate:
+
   `python -m venv venv`
 
 
@@ -47,7 +48,7 @@ This document explains how I set up a basic Django project and uploaded it to Gi
 - I went to GitHub and created a new repository.
 - Then, I linked my project to the GitHub repository:
 
-`git remote add origin https://github.com/your-username/your-repo.git`
+`git remote add origin https://github.com/Annybae/anna-assignment-.git`
 - I pushed my project to GitHub:
 `git branch -M main`
 
